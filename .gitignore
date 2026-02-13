@@ -1,0 +1,13 @@
+node_modules/
+.DS_Store
+.shopify/
+.env
+
+# Claude Code local files (personal overrides, not shared)
+CLAUDE.local.md
+.claude/settings.local.json
+.mcp.json
+
+# skill related files
+docs/ticket-map.md
+docs/horizon-research/

@@ -1,0 +1,9 @@
+{
+  "name": "claude-code-horizon-workflow",
+  "version": "1.0.0",
+  "description": "Claude Code skills for processing Linear issues into Shopify Horizon theme configuration",
+  "private": true,
+  "scripts": {
+    "check": "shopify theme check"
+  }
+}
